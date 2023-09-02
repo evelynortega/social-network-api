@@ -12,6 +12,7 @@
 - [GitHub](#github)
 - [Email](#email)
 - [Walkthrough Video Link](#walkthrough)
+- [Credits](#credits)
 
 <h2 id="description">Description</h2>
 As a developer, I want to use an API to create a social network that uses NoSQL database, so that my website can handle large amounts of unstructured data.
@@ -41,3 +42,7 @@ Use Insomia to test the routes.
 [Watch the walkthrough video !](https://drive.google.com/file/d/1BOuiDUynC5evZNu8kT72wSlpVX1oRAbu/view)
 
 ![Video Screenshot](<./images/Screenshot (76).png>)
+
+## Credits
+
+Aden Eldred with Insomnia Routes
